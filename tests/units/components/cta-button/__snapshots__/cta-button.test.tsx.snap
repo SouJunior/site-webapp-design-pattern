@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CtaButton matches snapshot 1`] = `
+<button
+  aria-label="Snapshot Test"
+  class="sc-VHjGu euCHIR"
+>
+  Snapshot Test
+  <img
+    alt=""
+    aria-hidden="true"
+    class="sc-gnOvAp eYXTkY"
+    src="mocked-file"
+  />
+</button>
+`;
